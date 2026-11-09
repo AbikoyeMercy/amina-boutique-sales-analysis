@@ -15,9 +15,9 @@ This project was built 100% end-to-end using Microsoft Power BI:
 *   **Data Visualization & UI Design:** Designed a cohesive, boutique-themed user interface featuring interactive bar charts, line graphs, donut charts, and an incorporated product image. Added global category buttons at the top right to filter the entire report with one click.
 
 ## How the Dashboard Works
-1.  **KPI Cards:** Gives the boutique owner an instant snapshot of overall business health (Sales, Units, Orders).
+1.  **KPI Cards:** Gives the boutique owner an instant snapshot of overall business health.
 2.  **Product Slicers:** Allows users to filter the charts dynamically by specific items like Ankara Skirts, Heels, or Kaftans.
-3.  **Visualizations:** Breaks down sales volume by product, revenue by category, payment types, and top buyers to give a complete 360-degree view of retail performance.
+3.  **Visualization:** Breaks down sales volume by product, revenue by category, payment types, and top buyers to give a complete 360-degree view of retail performance.
    <img width="1256" height="765" alt="Screenshot 2026-11-09 120923" src="https://github.com/user-attachments/assets/ac16db60-1681-4abd-bb12-e1f8a7b4dc36" />
 
 ## Key Findings
