@@ -19,6 +19,11 @@ This project was built 100% end-to-end using Microsoft Power BI:
 2.  **Product Slicers:** Allows users to filter the charts dynamically by specific items like Ankara Skirts, Heels, or Kaftans.
 3.  **Visualization:** Breaks down sales volume by product, revenue by category, payment types, and top buyers to give a complete 360-degree view of retail performance.
    <img width="1256" height="765" alt="Screenshot 2026-11-09 120923" src="https://github.com/user-attachments/assets/ac16db60-1681-4abd-bb12-e1f8a7b4dc36" />
+   
+
+https://github.com/user-attachments/assets/5ca9ee9a-fb40-4623-8e13-cafe3a4a9348
+
+
 
 ## Key Findings
 *  Ankara Skirts and Headwraps drive the highest unit sales volumes (quantity sold). However, higher-priced premium items like Jumpsuits, Heels, and Blazers generate the core revenue for the business.
